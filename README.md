@@ -1,6 +1,7 @@
 # アダプト・テトリス / Adaptive Tetris
 
 プレイヤーの腕前に合わせて、おじゃま・お助けが自動で変わるブラウザ用テトリスです。
+
 A browser Tetris that adapts garbage and help to your skill.
 
 - Modes: Endless / Score Attack / CPU Battle (Lv1-5) / Practice
