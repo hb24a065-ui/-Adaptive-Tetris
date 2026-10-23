@@ -905,6 +905,7 @@
   <div class="keys" data-i="keys"></div>
   <div class="credit" data-i="credit"></div>
   <div class="credit"><a href="#" class="tm" data-i="terms" style="color:inherit"></a></div>
+  <div class="credit">© 2026 hb24a065-ui. All rights reserved.</div>
 
   <script>
     (function () {
@@ -1310,7 +1311,7 @@
         document.documentElement.lang = L; document.title = t('title');
         document.querySelectorAll('[data-i]').forEach(e => e.innerHTML = t(e.dataset.i));
         document.querySelectorAll('.lg').forEach(b => b.value = L);
-        $('hw').innerHTML = t('howT') + t('howVs'); $('tw').innerHTML = t('termsT'); if (!$('p-set').hidden) buildSet();
+        $('hw').innerHTML = t('howT') + t('howVs'); $('tw').innerHTML = t('termsT') + '<p><b>企画者・運営者 / Planner and Operator: hb24a065-ui</b><br>© 2026 hb24a065-ui. All rights reserved.</p>'; if (!$('p-set').hidden) buildSet();
         $('subT').textContent = t(SUBK[subKind]); render_ui()
       }
       function end(win) {
