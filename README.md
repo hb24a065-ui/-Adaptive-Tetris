@@ -5,7 +5,7 @@ A browser Tetris that adapts garbage and help to your skill.
 
 - Modes: Endless / Score Attack / CPU Battle (Lv1-5) / Practice
 - Languages: 日本語 / English / 中文 / Русский
-- Play: https://[hb24a065-ui].github.io/[-Adaptive-Tetris]/
+- Play: https://hb24a065-ui.github.io/-Adaptive-Tetris/
 
 ## Credits
 Created with the help of the AI Claude (Anthropic). Non-Japanese translations are AI-generated.
